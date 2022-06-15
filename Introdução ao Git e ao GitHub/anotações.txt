@@ -1,0 +1,17 @@
+SHA 1
+Secure Hash Algorithm
+40 digi
+
+blobs - A binary large object is a collection of binary data stored as a 
+	single entity. Blobs are typically images, audio or other 
+	multimedia objects, though sometimes binary executable code 
+	is storedas a blob.
+
+tree → blob
+commits
+	tree
+	parente
+	autor
+	msgem
+	timestamp
+
