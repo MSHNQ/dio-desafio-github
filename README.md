@@ -1,5 +1,5 @@
 # Repositório do Desafio de Projeto Git/GitHub
-Desafio de Projeto sobre GitHub
+Repostiório criado para o desafio de projeto
 
 ## Links Úteis
 [Site de Guía Markdown](https://www.markdownguide.org/)
